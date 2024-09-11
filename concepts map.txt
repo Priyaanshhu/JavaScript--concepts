@@ -1,0 +1,92 @@
+Concepts Map (Follow while Learning)
+
+# index.html
+
+# 1st Chapter :
+1) console.log
+2) comments
+3) variables
+4) rules for naming variables
+5) let 
+6) constant
+7) string indexing
+8) string methods
+9) type conversion
+10) string concatenation
+11) template strings
+12) null, undefined, bigint
+13) boolean, comparison operator
+14) if else condition
+15) falsy and truthy values
+16) ternary operator
+17) and, or operator
+18) nested if else
+19) if, else-if, else
+20) switch statement
+21) while loop
+22) for loop
+23) break and continue keyword
+24) do while loop
+25) array
+26) push, pop
+27) shift, unshift
+28) primitive vs reference datatypes
+29) clone, concatenate, spread operator
+30) for loop
+31) using const for array
+32) while loop in array
+33) for of loop
+34) for in loop
+35) array destructuring
+36) object 
+37) dot and bracket notation
+38) iterate an object
+39) computed properties
+40) spread operator in object
+41) object destructuring
+42) object inside array
+43) nested destructuring
+44) function declaration
+45) function expression
+46) arrow function
+47) hoisting
+48) function inside function
+49) lexical scope
+50) block and function scope
+51) default parameters
+52) rest parameters
+53) parameters destructuring
+54) callback function
+55) function returning function
+56) foreach() method
+57) map() method
+58) filter() method
+59) reduce() method
+60) sort() method
+61) find() method
+62) every() method
+63) some() method
+64) fill() method
+65) splice() method
+66) iterable, array like object
+67) sets
+68) map data structure
+69) clone using object.assign
+70) optional chaining
+71) create your own methods
+72) this keyword
+73) call, apply, bind methods
+
+
+# 2st Chapter :
+1) create function to create multiple objects
+2) store methods in different object
+3) object.create() 
+4) prototype
+5) use prototype
+6) new keyword
+7) class keyword
+8) extends keyword 
+9) super keyword 
+10) getters and setters
+11) static methods and static properties 
