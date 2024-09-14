@@ -1,8 +1,8 @@
 Concepts Map (Follow while Learning)
 
-# index.html
-
 # 1st Chapter :
+index.html
+
 1) console.log
 2) comments
 3) variables
@@ -90,3 +90,38 @@ Concepts Map (Follow while Learning)
 9) super keyword 
 10) getters and setters
 11) static methods and static properties 
+
+# 3rd Chapter (DOM) :
+index.html
+style.css
+
+1) async vs defer
+2) getElementById
+3) querySelector
+4) textContent and innerText
+5) style
+6) get and set attribute 
+7) querySelectorAll and getElementsByClassName 
+8) iterate elements 
+9) innerHTML
+10) index2.html
+    (i) traversing DOM
+11) classList, add and remove, toggle class
+12) createElement, append, prepend, remove, before, after
+13) insertAdjacentHTML
+14) clone nodes
+15) static list vs live list
+16) get dimension of an element
+17) events
+18) clickEvent.html,
+    (i) clickEvent on multiple buttons,
+    (ii) event object
+19) little demo.html,
+    little demo.css,
+    little demo.js
+20) keypress, mouseover and mouseleave events
+21) event bubbling and event capturing.html,
+    event bubbling and event capturing.css,
+    (i) event bubbling and event capturing 
+    (ii) event delegation 
+22) project using event delegation
