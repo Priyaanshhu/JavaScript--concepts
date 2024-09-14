@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ASYNC VS DEFER</title>
+<!---
+When adding a JavaScript file to an HTML document, you can use the "async" and "defer" attributes to control how the script is loaded and executed.
+In summary, async loads and executes scripts as soon as possible, while defer loads scripts asynchronously but executes them only after the HTML document has been fully parsed(read).
+---> 
+<!---
+Async:
+- The async attribute tells the browser to load the script asynchronously, meaning it will not block the parsing(reading) of the HTML document.
+- The script will be executed as soon as it's loaded, without waiting for other scripts or HTML elements to be parsed.
+- If multiple scripts have the async" attribute, their execution order is not guaranteed.
+---> 
+  <script src="/javascript_file.js" async></script>
+  
+<!---
+Defer:
+- The defer attribute tells the browser to load the script asynchronously, but execute it only after the HTML document has been fully parsed.
+- The script will be executed in the order it appears in the HTML document, after all other scripts and HTML elements have been parsed.
+- If multiple scripts have the defer attribute, their execution order is guaranteed to be the same as their order in the HTML document.
+---> 
+  <script src="/javascript_file.js" defer></script>
+</head>
+
+<body>
+</body>
+</html>
