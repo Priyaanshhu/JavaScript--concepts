@@ -125,3 +125,21 @@ style.css
     (i) event bubbling and event capturing 
     (ii) event delegation 
 22) project using event delegation
+
+# 4th Chapter (asynchronous) :
+index.html
+
+1) synchronous and asynchronous 
+2) setTimeout
+3) callbacks, callback hell, pyramid of doom.html,
+  (i) callbacks, callback hell, pyramid of doomv
+4) promise
+5) function returning promise
+6) promise with setTimeout
+7) promise resolve and promise chaining
+8) callbacks, callback hell, pyramid of doom.html (from no.(3)),
+   (i) callback hell to flat code
+9) XHR (Xml Http Request)  
+10) XHR using promise 
+11) Fetch API
+12) consume promises using Async Await
